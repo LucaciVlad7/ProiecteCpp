@@ -1,0 +1,18 @@
+﻿  consola.cpp
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\consola.cpp(55,8): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\consola.cpp(83,9): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\consola.cpp(113,9): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\consola.cpp(119,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\consola.cpp(137,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+  main.cpp
+  produse.cpp
+  produseRepo.cpp
+  produseService.cpp
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\produseService.cpp(40,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\produseService.cpp(46,27): warning C4018: '>=': signed/unsigned mismatch
+  teste.cpp
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\teste.cpp(53,31): warning C4101: 'ex': unreferenced local variable
+C:\Users\lucac\source\repos\lab6_OOP\lab6_OOP\teste.cpp(184,31): warning C4101: 'ex': unreferenced local variable
+  validator.cpp
+  Generating Code...
+  lab6_OOP.vcxproj -> C:\Users\lucac\source\repos\lab6_OOP\x64\Debug\lab6_OOP.exe
