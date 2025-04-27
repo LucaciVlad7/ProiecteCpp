@@ -1,0 +1,5 @@
+﻿  ui.cpp
+C:\Users\lucac\source\repos\lab6_7__OOP\lab6_7__OOP\ui.cpp(77,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucac\source\repos\lab6_7__OOP\lab6_7__OOP\ui.cpp(88,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucac\source\repos\lab6_7__OOP\lab6_7__OOP\ui.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+  lab6_7__OOP.vcxproj -> C:\Users\lucac\source\repos\lab6_7__OOP\x64\Debug\lab6_7__OOP.exe
