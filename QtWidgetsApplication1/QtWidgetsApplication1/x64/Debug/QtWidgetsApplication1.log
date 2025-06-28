@@ -1,0 +1,23 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  main.cpp
+C:\Users\lucac\source\repos\QtWidgetsApplication1\QtWidgetsApplication1\Repository.h(68,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+      C:\Users\lucac\source\repos\QtWidgetsApplication1\QtWidgetsApplication1\Repository.h(68,26):
+      the template instantiation context (the oldest one first) is
+          C:\Users\lucac\source\repos\QtWidgetsApplication1\QtWidgetsApplication1\main.cpp(13,29):
+          see reference to class template instantiation 'FileRepository<Locatar>' being compiled
+          C:\Users\lucac\source\repos\QtWidgetsApplication1\QtWidgetsApplication1\FileRepository.h(9,31):
+          see reference to class template instantiation 'Repository<TElem>' being compiled
+          with
+          [
+              TElem=Locatar
+          ]
+          C:\Users\lucac\source\repos\QtWidgetsApplication1\QtWidgetsApplication1\Repository.h(67,6):
+          while compiling class template member function 'int Repository<TElem>::repoGetSize(void)'
+          with
+          [
+              TElem=Locatar
+          ]
+  
+  QtWidgetsApplication1.vcxproj -> C:\Users\lucac\source\repos\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
