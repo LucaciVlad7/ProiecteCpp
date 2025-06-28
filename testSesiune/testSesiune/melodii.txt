@@ -1,0 +1,10 @@
+1,titlu1,artist1,7
+2,titlu2,artist2,5
+3,titlu3,artist1,8
+5,titlu5,artist1,5
+6,titlu6,artist2,3
+7,titlu7,artist2,4
+8,titlu8,artist1,5
+9,titlu9,artist3,7
+10,titlu10,artist3,5
+12,titlu12,artist10,5

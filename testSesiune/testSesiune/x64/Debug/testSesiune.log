@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  main.cpp
+C:\Users\lucac\source\repos\testSesiune\testSesiune\MelodiiModel.h(13,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  testSesiune.vcxproj -> C:\Users\lucac\source\repos\testSesiune\x64\Debug\testSesiune.exe
